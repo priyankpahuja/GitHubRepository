@@ -14,7 +14,7 @@ namespace GitHubRepository
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            string ss = "";
         }
 
         protected void btnGenerate_Click(object sender, EventArgs e)
